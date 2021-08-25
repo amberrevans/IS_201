@@ -4,7 +4,7 @@
 age = input("What is your age?")
 
 #Display the string on the line by itself
-print ("Here is the value that you entered: ")
+print("Here is the age that you entered: ")
 
 #Display the value stored in the variable age
-print (age)
+print(age)
