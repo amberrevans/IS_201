@@ -1,6 +1,4 @@
 #Amber Evans
-#9/14/2020
-#program 3-14
 #This program calculated body mass, then tells user if they are optimal, under
 #or over weight.
 
